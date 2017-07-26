@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinhui\Desktop\demo1\app\libs\alipaySdk-20160223.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="C:\Users\jinhui\Desktop\demo1\app\build\intermediates\pre-dexed\debug\alipaySdk-20160223_ffc887f8e99eaaf2e3d965c2c5c03590c6493fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jinhui\Desktop\demo1\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="C:\Users\jinhui\Desktop\demo1\app\build\intermediates\pre-dexed\debug\android-support-v13_6999a228c422edbb840b2546d1027039bc58835f.jar" />
+    </item>
+
+</items>
